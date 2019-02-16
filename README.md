@@ -1,2 +1,3 @@
-# gh-pages
-Ethereum London Meetup
+# Ethereum London
+
+[ethereumlondon.github.io/home/](https://ethereumlondon.github.io/home/index.html)
